@@ -33,9 +33,14 @@
     float:right;
 }
 
-.achivement_text span
+#school_achivement1,#school_achivement2 span
 {
     color:orange;
+}
+
+.movie_text span
+{
+color:orange;
 }
 
 .new
